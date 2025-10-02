@@ -8,4 +8,5 @@ void loop() {
     Serial.println("Hello PlatformIO + GitHub!");
     delay(1000);
     Serial.println("ESP32 is awesome!");
+    delay(5000);
 }
